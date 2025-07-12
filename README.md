@@ -16,14 +16,6 @@ CollabGPT is an intelligent chatbot system that lets you **upload multiple PDFs*
 
 ---
 
-## 🖼️ Example Chat Interaction (Colab UI)
-
-Here’s a real screenshot showing CollabGPT working inside Google Colab:
-
-![CollabGPT Chat Screenshot](screenshot.png)
-
----
-
 ## 🧪 Tech Stack
 
 - `Python`
